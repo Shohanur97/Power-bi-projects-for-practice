@@ -18,6 +18,6 @@ The data was extracted from historical records and analyzed using Excel/Python f
 - Historical trends in World Cup performance
 - Country-wise participation and achievements
 
-
+![Ecommerce Sales Analysis Dashboard](https://github.com/Shohanur97/Power-bi-projects-for-practice/blob/main/world_cup_results_dashboard/World_cup_dashboard.png)
 
 
