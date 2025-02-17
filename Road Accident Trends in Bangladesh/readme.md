@@ -1,5 +1,6 @@
 
 # Road Accident Analysis in Bangladesh (1980-2024)
+![image alt](https://github.com/Shohanur97/Power-bi-projects-for-practice/blob/main/Road%20Accident%20Trends%20in%20Bangladesh/Road%20Accident%20Trends%20in%20Bangladesh.png)
 
 ## 📌 Overview
 This project provides a comprehensive analysis of road accidents in Bangladesh from **1980 to 2024**. By analyzing accident trends, fatalities, and injury patterns, we aim to uncover key insights into road safety. The dataset includes details such as accident counts, fatalities, serious injuries, and other related factors.
@@ -32,4 +33,4 @@ CALCULATE(
     road_accident[Year] = SELECTEDVALUE(road_accident[Year])
 )
 
-![image alt](https://github.com/Shohanur97/Power-bi-projects-for-practice/blob/main/Road%20Accident%20Trends%20in%20Bangladesh/Road%20Accident%20Trends%20in%20Bangladesh.png)
+
